@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This project is an exercise to practice tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubinleyoung/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aubinleyoung/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/aubinleyoung/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
